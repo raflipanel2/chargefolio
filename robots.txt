@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chargefolio.vercel.app/sitemap.xml
